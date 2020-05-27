@@ -1,7 +1,7 @@
-package com.learn.tutu.controller;
+package com.zxd.blog.controller;
 
-import com.learn.tutu.pojo.Article;
-import com.learn.tutu.service.ArticleService;
+import com.zxd.blog.pojo.Article;
+import com.zxd.blog.service.ArticleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;

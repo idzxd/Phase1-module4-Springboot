@@ -1,4 +1,4 @@
-package com.learn.tutu.pojo;
+package com.zxd.blog.pojo;
 
 import javax.persistence.*;
 import java.util.Date;

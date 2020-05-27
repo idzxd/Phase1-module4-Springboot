@@ -1,7 +1,7 @@
-package com.learn.tutu.dao;
+package com.zxd.blog.dao;
 
 
-import com.learn.tutu.pojo.Article;
+import com.zxd.blog.pojo.Article;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 

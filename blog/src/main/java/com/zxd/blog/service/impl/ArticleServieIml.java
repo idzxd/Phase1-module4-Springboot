@@ -1,8 +1,8 @@
-package com.learn.tutu.service.impl;
+package com.zxd.blog.service.impl;
 
-import com.learn.tutu.dao.ArticleDao;
-import com.learn.tutu.pojo.Article;
-import com.learn.tutu.service.ArticleService;
+import com.zxd.blog.dao.ArticleDao;
+import com.zxd.blog.pojo.Article;
+import com.zxd.blog.service.ArticleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

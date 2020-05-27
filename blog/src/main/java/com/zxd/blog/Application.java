@@ -1,4 +1,4 @@
-package com.learn.tutu;
+package com.zxd.blog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.learn.tutu.service;
+package com.zxd.blog.service;
 
 
-import com.learn.tutu.pojo.Article;
+import com.zxd.blog.pojo.Article;
 import org.springframework.data.domain.Page;
 
 public interface ArticleService {
